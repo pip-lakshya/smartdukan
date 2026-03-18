@@ -6,7 +6,7 @@ SmartDukan is a web-based inventory management system designed for small and med
 It helps shopkeepers manage stock, track sales, and maintain customer records digitally — replacing traditional manual methods.
 
 ---
-🌐 Live Demo: http://smartdukan.gt.tc
+🌐 Live Demo: https://smartdukan.gt.tc
 ---
 
 ## 🎯 Problem Statement
