@@ -112,7 +112,7 @@ smartdukan/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smartdukan.git
+git clone https://github.com/pip-lakshya/smartdukan.git
 ```
 
 ### 2️⃣ Move to XAMPP htdocs
